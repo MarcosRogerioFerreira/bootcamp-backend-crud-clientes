@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ana Carolina', '12345678989', 8000.0, '1980-01-01', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Elvis Presley', '78945612312', 12000.0, '1960-01-01', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Raul Seixas', '12345678989', 4000.0, '1975-01-01', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Michael Jackson', '78945612312', 10000.0, '1968-01-01', 5);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Caetano Veloso', '12345678989', 2500.0, '1958-01-01', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Tim Maia', '12345678989', 3200.0, '1961-01-01', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Rocky Balboa', '78945612312', 12000.0, '1975-01-01', 5);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pedro Alvares Cabral', '12345678989', 4000.0, '1975-01-01', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Izabel', '78945612312', 10000.0, '1968-01-01', 5);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Leonardo da Vinci', '12345678989', 2500.0, '1958-01-01', 3);
